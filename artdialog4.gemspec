@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{artdialog4}
   spec.description   = %q{artdialog4}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/daweiba/artdialog4"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features|src)/}) }
   spec.bindir        = "exe"
@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
+    spec.metadata['allowed_push_host'] = "https://rubygems.org"
   else
     raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end
