@@ -6,8 +6,8 @@ require 'artdialog4/version'
 Gem::Specification.new do |spec|
   spec.name          = "artdialog4"
   spec.version       = Artdialog4::VERSION
-  spec.authors       = ["nine"]
-  spec.email         = ["nine@cyhz.com"]
+  spec.authors       = ["kyuubi"]
+  spec.email         = ["kyuubi@chinacluster.com"]
 
   spec.summary       = %q{artdialog4}
   spec.description   = %q{artdialog4}
