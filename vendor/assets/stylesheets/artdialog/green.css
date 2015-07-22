@@ -45,7 +45,7 @@ button.aui_state_highlight:active { border-color:#3c5412; filter: progid:DXImage
 .aui_ne { width:15px; height:38px; background-position: -15px 0; _background-image:url(green/ie6/ne.png); }
 .aui_sw { width:15px; height:18px; background-position: 0 -38px; _background-image:url(green/ie6/sw.png); }
 .aui_se { width:15px; height:18px; background-position: -15px -38px; _background-image:url(green/ie6/se.png); }
-.aui_close { top:4px; right:4px; _z-index:1; width:20px; height:20px; _font-size:0; _line-height:0; text-indent:-9999em; background-position:0 -112px; _background-image:url(green/ie6/close.png; }
+.aui_close { top:4px; right:4px; _z-index:1; width:20px; height:20px; _font-size:0; _line-height:0; text-indent:-9999em; background-position:0 -112px; _background-image:url(green/ie6/close.png); }
 .aui_close:hover { background-position:0 -132px; }
 .aui_n, .aui_s { background-repeat:repeat-x; }
 .aui_n { background-position: 0 -56px; _background-image:url(green/ie6/n.png); }
